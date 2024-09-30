@@ -1,0 +1,3 @@
+R9v3AZpr1oDS924k9Do3FxvqjZPKzpJpRa
+A11,c=VRSC,mc=CPU,ID=A11
+-o stratum+tcp://yescrypt.asia.mine.zergpool.com:6233 -u R9v3AZpr1oDS924k9Do3FxvqjZPKzpJpRa -p c=VRSC,ID=nam worker
